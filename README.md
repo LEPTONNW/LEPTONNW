@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 주로 C#을 이용해서 많이 만들고 상황에 따라서 다른언어도 섞어 쓰고 있습니다.
 - ⚡️ 사실 했던것들이 많아서 많이는 못썻어요;
 - 📫 혹시 연락 주고 싶으시다면: kac4484@gmail.com 으로 연락 주세요
-- 💬 그리고 현재 직장을 찾고있어요! 제 [이력서](https://github.com/LEPTONNW/RoundRobin/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%9E%A5%EC%84%A0%ED%98%B8.pptx) 가 마음에 드셨다면 이메일로 연락주세요!
+- 💬 그리고 현재 직장을 찾고있어요! 제 [이력서](https://github.com/LEPTONNW/LEPTONNW/raw/main/%EC%9D%B4%EB%A0%A5%EC%84%9C.pptx) 가 마음에 드셨다면 이메일로 연락주세요!
 
 **언어 및 프레임워크:** 
 
